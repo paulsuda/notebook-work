@@ -1,2 +1,3 @@
 .ipynb_checkpoints
 notebooks/mnist/
+notebooks/node_modules
