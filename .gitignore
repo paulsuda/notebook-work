@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 tmp
 notebooks/node_modules
+notebooks/package-lock.json
